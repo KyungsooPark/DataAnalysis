@@ -3,6 +3,8 @@ guideSearchApi/
 kakaoapikey.txt
 roadapikey.txt
 password.txt
+mysql.json
+movies/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
